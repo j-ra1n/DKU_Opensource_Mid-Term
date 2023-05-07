@@ -22,29 +22,24 @@ body {
     scroll-snap-align: center;
 }
 
-/* .list:nth-child(1){
-    background-color: rgb(0, 0, 0);
-    background-size: cover;
-    background-attachment: fixed; 
-    background-position: center; 
-} */
+
 
 .list:nth-child(2){
-    background-color: #4e5a56;
+    background-color: #99A98F;
     background-size: cover;
     background-attachment: fixed; 
     background-position: center; 
 }
 
 .list:nth-child(3){
-    background-color: #9d949e;
+    background-color: #C1D0B5;
     background-size: cover;
     background-attachment: fixed; 
     background-position: center; 
 }
 
 .list:nth-child(4){
-    background-color: #e0d8cc;
+    background-color: #D6E8DB;
     background-size: cover;
     background-attachment: fixed; 
     background-position: center; 
