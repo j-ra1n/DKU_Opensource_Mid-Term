@@ -1,5 +1,5 @@
 # 2023-1 오픈소스 SW 활용
-중간고사 과제 대체
+
 
 <깃허브>
 - 'Mid-Term-Project' Repository를 생성해서 작업
