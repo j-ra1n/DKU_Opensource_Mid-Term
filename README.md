@@ -1,5 +1,6 @@
 # 2023-1 오픈소스 SW 활용
 
+https://j-ra1n.github.io/DKU_Opensource_Mid-Term/
 
 <깃허브>
 - 'Mid-Term-Project' Repository를 생성해서 작업
